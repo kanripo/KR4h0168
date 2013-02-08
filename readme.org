@@ -1,0 +1,4 @@
+* 2013-02-08
+** created initial input from qtw.xml -> qtw.txt with some manual edits.
+** files have been prepared until juan 129 inclusively.
+
