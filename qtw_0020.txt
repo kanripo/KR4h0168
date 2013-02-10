@@ -10,7 +10,7 @@
 
 <pb:NFKB_QTW_p0020-01a>
 
-* 元宗皇帝(一)¶ 
+* 元宗皇帝¶ 
 
 :PROPERTIES:
 :PERSID: QTWAUT0006
